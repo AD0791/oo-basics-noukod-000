@@ -1,10 +1,6 @@
 class Book
   attr_reader :title
 
-  def title
-    @title
-  end
-
   attr_accessor :author, :page_count, :genre
 
   def turn_page
