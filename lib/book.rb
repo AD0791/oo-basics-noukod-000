@@ -7,5 +7,3 @@ class book
     @title
   end
 end
-
-
